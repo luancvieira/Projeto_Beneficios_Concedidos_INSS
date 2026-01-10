@@ -2,6 +2,6 @@
 
 Como fatores socioeconômicos e demográficos influenciam a sobrevida e o nível de renda inicial dos aposentados do INSS?
 
-[Relatório do projeto](Relatório.pdf).
+[Relatório do projeto](Relatório.pdf)
 
 
